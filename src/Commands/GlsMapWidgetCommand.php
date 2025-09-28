@@ -43,7 +43,7 @@ class GlsMapWidgetCommand extends Command
         $this->line('<comment><x-gls-map country="CZ" filter-type="parcel-locker" /></comment>');
 
         $this->line('');
-        $this->info('📚 Documentation: https://github.com/WebSystem-studio/laravel-gls-map-widget');
+        $this->info('📚 Documentation: https://github.com/websystem/gls-map-widget');
 
         return self::SUCCESS;
     }

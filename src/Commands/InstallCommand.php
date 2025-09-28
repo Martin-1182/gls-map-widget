@@ -41,7 +41,7 @@ class InstallCommand extends Command
         $this->line('<comment><x-gls-map :use-geolocation="true" /></comment>');
         $this->line('');
 
-        $this->info('📚 Full documentation: https://github.com/WebSystem-studio/laravel-gls-map-widget');
+        $this->info('📚 Full documentation: https://github.com/websystem/gls-map-widget');
 
         return self::SUCCESS;
     }

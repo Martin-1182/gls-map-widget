@@ -26,7 +26,7 @@ Austria, Belgium, Bulgaria, Czech Republic, Germany, Denmark, Spain, Finland, Fr
 You can install the package via composer:
 
 ```bash
-composer require websystem-studio/gls-map-widget
+composer require websystem/gls-map-widget
 ```
 
 Publish the config file with:
@@ -419,4 +419,4 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 ---
 
-**Made with ❤️ by [WebSystem Studio](https://github.com/WebSystem-studio)**
+**Made with ❤️ by [WebSystem Studio](https://github.com/websystem)**
